@@ -1,7 +1,7 @@
 <?php include "../inc/dbinfo.inc"; ?>
 <html>
 <body>
-<h1>AnyCompany Web Application</h1>
+<h1>AnyCompany Employee Database Portal</h1>
 <?php
 
   /* Connect to MySQL and select the database. */
