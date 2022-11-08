@@ -1,4 +1,4 @@
-<?php include "../inc/dbinfo.inc"; ?>
+<?php include "../html/dbinfo.inc"; ?>
 <html>
 <body>
 <h1>AnyCompany Employee Database Portal</h1>
