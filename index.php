@@ -3,7 +3,7 @@
 <h1>AnyCompany Employee Database Portal</h1>
 <?php
 
-  $DB_SERVER = "";
+  $DB_SERVER = "teststack-readerinstance-bp8lxm27dxub.csr9ait2nuqh.us-east-1.rds.amazonaws.com";
   $DB_USERNAME = "rdsroot";
   $DB_PASSWORD = "avivenkadmin";
   $DB_DATABASE = "sample";
