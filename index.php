@@ -3,7 +3,7 @@
 <h1>AnyCompany Employee Database Portal</h1>
 <?php
 
-  $DB_SERVER = "abstack-instanceb-epvdeqythael.csr9ait2nuqh.us-east-1.rds.amazonaws.com";
+  $DB_SERVER = "abstack-dbcluster-203bv18gsfu0.cluster-csr9ait2nuqh.us-east-1.rds.amazonaws.com";
   $DB_USERNAME = "rdsroot";
   $DB_PASSWORD = "avivenkadmin";
   $DB_DATABASE = "sample";
