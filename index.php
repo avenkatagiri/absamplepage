@@ -1,6 +1,6 @@
 <html>
-<body>
-<h1>AnyCompany Employee Database Portal</h1>
+<body style="background-color:grey;">
+<h1 style="color:white;">AnyCompany Employee Database Portal</h1>
 <?php
 
   $DB_SERVER = "abstack-dbcluster-203bv18gsfu0.cluster-csr9ait2nuqh.us-east-1.rds.amazonaws.com";
