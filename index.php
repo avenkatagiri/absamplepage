@@ -48,7 +48,7 @@
 </form>
 
 <!-- Display table data. -->
-<table border="1" cellpadding="2" cellspacing="2">
+<table border="1" cellpadding="2" cellspacing="2" style="background-color:#33475b">
   <tr>
     <td>ID</td>
     <td>NAME</td>
